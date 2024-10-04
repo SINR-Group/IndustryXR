@@ -12,6 +12,6 @@ A Repository to store published papers  related in the field of XR for Industry 
 | 005 |[Comparative Evaluation of Virtual Reality and In-Person Onboarding for Assembly Trainings in Manufacturing](./papers/005.md) |
 | 006 | [Digital twin (DT) and extended reality (XR) for building energy management](./papers/006.md) |
 | 007 | [Digital Twin Utilizing XR-Technology as Robotic Training Tool](./papers/007.md) |
-| 008 | [Towards Metaverse: Utilizing Extended Reality and Digital
-Twins to Control Robotic Systems](./papers/008.md)
+| 008 | [Towards Metaverse: Utilizing Extended Reality and Digital Twins to Control Robotic Systems](./papers/008.md)
+| 009 | [Integrated cyber-physical systems and industrial metaverse for remote manufacturing](./papers/009.md)
 

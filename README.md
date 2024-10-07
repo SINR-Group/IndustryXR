@@ -16,10 +16,12 @@ A Repository to store published papers  related in the field of XR for Industry 
 | 009 | [Integrated cyber-physical systems and industrial metaverse for remote manufacturing](./papers/009.md)
 | 010 | [A Mixed Reality Interface for a Digital Twin Based Crane](./papers/010.md)
 | 011 | [A Systematic Review of Virtual Reality Interfaces for Controlling and Interacting with Robots](./papers/011.md)
+| 012 * | [Virtual reality in manufacturing: immersive and collaborative artificial-reality in design of human-robot workspace](./papers/012.md)
 
 ## Industry 4.0 / Smart Manufacturing
 | Paper ID | Paper Title |
 |----------|-------------|
 | SM-001 | [Industry 4.0 Implementation Challenges in Manufacturing Industries: an Interpretive Structural Modelling Approach](./papers/SmartManufacturing/001.md)
 | SM-002 | [Significant applications of Cobots in the field of manufacturing](./papers/SmartManufacturing/002.md)
+
 

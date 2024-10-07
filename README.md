@@ -20,6 +20,6 @@ A Repository to store published papers  related in the field of XR for Industry 
 ## Industry 4.0 / Smart Manufacturing
 | Paper ID | Paper Title |
 |----------|-------------|
-| SM-001 | [Industry 4.0 Implementation Challenges in Manufacturing
-Industries: an Interpretive Structural Modelling Approach](./papers/SmartManufacturing/001.md)
+| SM-001 | [Industry 4.0 Implementation Challenges in Manufacturing Industries: an Interpretive Structural Modelling Approach](./papers/SmartManufacturing/001.md)
+| SM-002 | [Significant applications of Cobots in the field of manufacturing](./papers/SmartManufacturing/002.md)
 

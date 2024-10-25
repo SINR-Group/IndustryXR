@@ -16,8 +16,9 @@ A Repository to store published papers  related in the field of XR for Industry 
 | 009 | [Integrated cyber-physical systems and industrial metaverse for remote manufacturing](./papers/009.md)
 | 010 | [A Mixed Reality Interface for a Digital Twin Based Crane](./papers/010.md)
 | 011 | [A Systematic Review of Virtual Reality Interfaces for Controlling and Interacting with Robots](./papers/011.md)
-| 012 * | [Virtual reality in manufacturing: immersive and collaborative artificial-reality in design of human-robot workspace](./papers/012.md)
-| 013 | [User-customizable Shared Control for Robot Teleoperation via Virtual Reality](https://arxiv.org/pdf/2403.13177)
+| 012 | [User-customizable Shared Control for Robot Teleoperation via Virtual Reality](https://arxiv.org/pdf/2403.13177)
+| 013 | [Should I Evaluate my Augmented Reality System in an Industrial Environment? Investigating the Effects of Classroom and Shop Floor Settings on Guided Assembly](./papers/paper13.pdf)
+
 
 ## Industry 4.0 / Smart Manufacturing
 | Paper ID | Paper Title |

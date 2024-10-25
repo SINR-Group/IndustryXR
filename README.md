@@ -19,6 +19,8 @@ A Repository to store published papers  related in the field of XR for Industry 
 | 012 | [User-customizable Shared Control for Robot Teleoperation via Virtual Reality](https://arxiv.org/pdf/2403.13177)
 
 ## Augmented Reality
+| Paper ID | Paper Title |
+|----------|-------------|
 | AR-001 | [Augmented Reality in Assembly Systems: State of the Art and Future Perspectives](https://link.springer.com/chapter/10.1007/978-3-030-72632-4_1)
 | AR-002 | [Assessing Instructions in Augmented Reality for Human-robot Collaborative Assembly by Using Demonstrators](https://sciencedirect.com/science/article/pii/S221282711730135X?via%3Dihub)
 

@@ -17,7 +17,10 @@ A Repository to store published papers  related in the field of XR for Industry 
 | 010 | [A Mixed Reality Interface for a Digital Twin Based Crane](./papers/010.md)
 | 011 | [A Systematic Review of Virtual Reality Interfaces for Controlling and Interacting with Robots](./papers/011.md)
 | 012 | [User-customizable Shared Control for Robot Teleoperation via Virtual Reality](https://arxiv.org/pdf/2403.13177)
-| 013 | [Should I Evaluate my Augmented Reality System in an Industrial Environment? Investigating the Effects of Classroom and Shop Floor Settings on Guided Assembly](./papers/paper13.pdf)
+
+## Augmented Reality
+| AR-001 | [Augmented Reality in Assembly Systems: State of the Art and Future Perspectives](https://link.springer.com/chapter/10.1007/978-3-030-72632-4_1)
+| AR-002 | [Assessing Instructions in Augmented Reality for Human-robot Collaborative Assembly by Using Demonstrators](https://sciencedirect.com/science/article/pii/S221282711730135X?via%3Dihub)
 
 
 ## Industry 4.0 / Smart Manufacturing
@@ -25,5 +28,6 @@ A Repository to store published papers  related in the field of XR for Industry 
 |----------|-------------|
 | SM-001 | [Industry 4.0 Implementation Challenges in Manufacturing Industries: an Interpretive Structural Modelling Approach](./papers/SmartManufacturing/001.md)
 | SM-002 | [Significant applications of Cobots in the field of manufacturing](./papers/SmartManufacturing/002.md)
+| SM-003 | [On a human-robot collaboration in an assembly cell](https://www.tandfonline.com/doi/full/10.1080/0951192X.2016.1187297#d1e612)
 
 

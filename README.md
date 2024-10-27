@@ -17,6 +17,8 @@ A Repository to store published papers  related in the field of XR for Industry 
 | 010 | [A Mixed Reality Interface for a Digital Twin Based Crane](./papers/010.md)
 | 011 | [A Systematic Review of Virtual Reality Interfaces for Controlling and Interacting with Robots](./papers/011.md)
 | 012 | [User-customizable Shared Control for Robot Teleoperation via Virtual Reality](https://arxiv.org/pdf/2403.13177)
+| 013 | [Convergence of Virtual Reality and Digital Twin technologies to enhance digital operators’ training in industry 4.0](https://www.sciencedirect.com/science/article/pii/S1071581923001453)
+| 014 | [Virtual reality for education and workforce training](https://ieeexplore.ieee.org/document/8102472)
 
 ## Augmented Reality
 | Paper ID | Paper Title |

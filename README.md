@@ -19,6 +19,7 @@ A Repository to store published papers  related in the field of XR for Industry 
 | 012 | [User-customizable Shared Control for Robot Teleoperation via Virtual Reality](https://arxiv.org/pdf/2403.13177)
 | 013 | [Convergence of Virtual Reality and Digital Twin technologies to enhance digital operators’ training in industry 4.0](https://www.sciencedirect.com/science/article/pii/S1071581923001453)
 | 014 | [Virtual reality for education and workforce training](https://ieeexplore.ieee.org/document/8102472)
+| 015 | [Digital twin and virtual reality: a co-simulation environment for design and assessment of industrial workstations](https://www.tandfonline.com/doi/full/10.1080/21693277.2019.1660283?src=recsys#d1e497)
 
 ## Augmented Reality
 | Paper ID | Paper Title |
@@ -33,5 +34,6 @@ A Repository to store published papers  related in the field of XR for Industry 
 | SM-001 | [Industry 4.0 Implementation Challenges in Manufacturing Industries: an Interpretive Structural Modelling Approach](./papers/SmartManufacturing/001.md)
 | SM-002 | [Significant applications of Cobots in the field of manufacturing](./papers/SmartManufacturing/002.md)
 | SM-003 | [On a human-robot collaboration in an assembly cell](https://www.tandfonline.com/doi/full/10.1080/0951192X.2016.1187297#d1e612)
+| SM- 004 | [Industry 4.0 – A Glimpse](https://www.sciencedirect.com/science/article/pii/S2351978918300672)
 
 

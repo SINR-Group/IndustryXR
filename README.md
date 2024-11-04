@@ -22,6 +22,7 @@ A Repository to store published papers  related in the field of XR for Industry 
 | 015 | [Digital twin and virtual reality: a co-simulation environment for design and assessment of industrial workstations](https://www.tandfonline.com/doi/full/10.1080/21693277.2019.1660283?src=recsys#d1e497)
 | 016* | [A training system for Industry 4.0 operators in complex assemblies based on virtual reality and process mining](https://www.sciencedirect.com/science/article/pii/S0736584518303685)
 | 017 | [Development of virtual training platform of injection molding machine based on VR technology](https://link.springer.com/article/10.1007/s00170-012-3938-1)
+| 018 | [Methodology of Implementing Virtual Reality in Education for Industry 4.0](https://www.mdpi.com/2071-1050/13/9/5049)
 
 ## Augmented Reality
 | Paper ID | Paper Title |

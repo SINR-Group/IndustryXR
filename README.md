@@ -23,6 +23,7 @@ A Repository to store published papers  related in the field of XR for Industry 
 | 016* | [A training system for Industry 4.0 operators in complex assemblies based on virtual reality and process mining](https://www.sciencedirect.com/science/article/pii/S0736584518303685)
 | 017 | [Development of virtual training platform of injection molding machine based on VR technology](https://link.springer.com/article/10.1007/s00170-012-3938-1)
 | 018 | [Methodology of Implementing Virtual Reality in Education for Industry 4.0](https://www.mdpi.com/2071-1050/13/9/5049)
+| 019 | [Virtual reality training applications for the mining industry](https://dl.acm.org/doi/abs/10.1145/1503454.1503465)
 
 ## Augmented Reality
 | Paper ID | Paper Title |

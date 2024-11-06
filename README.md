@@ -25,6 +25,7 @@ A Repository to store published papers  related in the field of XR for Industry 
 | 018 | [Methodology of Implementing Virtual Reality in Education for Industry 4.0](https://www.mdpi.com/2071-1050/13/9/5049) |
 | 019 | [Virtual reality training applications for the mining industry](https://dl.acm.org/doi/abs/10.1145/1503454.1503465) |
 | 020 | [Industrial robot control and operator training using virtual reality interfaces](https://www.sciencedirect.com/science/article/pii/S0166361518308546) |
+| 021 | [Operators Training Using Simulation And VR Technology](https://www.sciencedirect.com/science/article/pii/S2212827121001177) |
 
 ## Augmented Reality
 | Paper ID | Paper Title |
